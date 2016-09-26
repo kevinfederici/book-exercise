@@ -140,11 +140,5 @@ class Book
     {
         return borrowed;
     }
-    /*
-     * exercise 2.92
-     */
-    public boolean isCourseText()
-    {
-        return courseText;
-    }
+    
 }
